@@ -1,16 +1,63 @@
-<h1 align="center">Hi 👋, I'm JayanthKumarNaidu.k</h1>
-<h3 align="center">Jayanth Kumar Naidu Kandala, a Multi-Cloud DevOps Engineer (Fresher) passionate about cloud, automation, and DevOps pipelines.</h3>
+<h1 align="center">Hi 👋, I'm Jayanth Kumar Naidu Kandala</h1>
+<h3 align="center">🚀 DevOps Engineer | AWS ☁ | Kubernetes ⚓ | CI/CD ⚙️ | Automation 🤖</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayanthkandala&label=Profile%20views&color=0e75b6&style=flat" alt="jayanthkandala" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayanthkandala" alt="jayanthkandala" /></a> </p>
-
-- Email **kandalajayanth401@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jayanthkumarnaidukandala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayanthkumarnaidukandala" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jayanthkandala&label=Profile%20views&color=0e75b6&style=flat" alt="Jayanthkandala" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 🌟 About Me
+- 🔭 Currently building **DevOps projects on AWS & Kubernetes**  
+- 🌱 Learning **GitOps (ArgoCD, Helm)** & **DevSecOps**  
+- 👯 Open to collaborate on **Cloud & DevOps projects**  
+- 💬 Ask me about **Jenkins, Terraform, Docker, Kubernetes, Monitoring**  
+- 📫 Reach me at **[kandalajayanth401@gmail.com](mailto:kandalajayanth401@gmail.com)**  
+- ⚡ Fun fact: *I debug pipelines faster with ☕*  
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jayanthkandala&theme=radical&no-frame=true&margin-w=15&row=1&column=7" alt="trophies"/>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,jenkins,docker,kubernetes,terraform,ansible,github,git,linux,prometheus,grafana,py,bash" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayanthkandala&show_icons=true&theme=tokyonight" alt="stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayanthkandala&theme=tokyonight" alt="streak" height="165"/>
+</p>
+
+---
+
+## 📈 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayanthkandala&layout=compact&theme=tokyonight" alt="languages"/>
+</p>
+
+---
+
+## 🔗 Connect with Me
+<p align="center">
+<a href="https://linkedin.com/in/jayanth-kumar-naidu-kandala-3632a124a" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+<a href="mailto:kandalajayanth401@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+<a href="https://github.com/Jayanthkandala" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
+</p>
+
+---
+
+<div align="center">
+
+### ✨ Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/{Jayanthkandala}/count.svg)
+
+</div>
