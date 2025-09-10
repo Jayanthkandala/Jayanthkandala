@@ -13,7 +13,6 @@
 - 👯 Open to collaborate on **Cloud & DevOps projects**  
 - 💬 Ask me about **Jenkins, Terraform, Docker, Kubernetes, Monitoring**  
 - 📫 Reach me at **[kandalajayanth401@gmail.com](mailto:kandalajayanth401@gmail.com)**  
-- ⚡ Fun fact: *I debug pipelines faster with ☕*  
 
 ---
 
@@ -56,9 +55,3 @@
 ---
 
 <div align="center">
-
-### ✨ Visitor Count!
-[Profile views](https://komarev.com/ghpvc/?username=Jayanthkandala&label=Profile%20Views&color=0e75b6&style=flat)
-
-
-</div>
