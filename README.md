@@ -57,7 +57,8 @@
 
 <div align="center">
 
-### ✨ Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/{Jayanthkandala}/count.svg)
+### ✨ Visitor Count!
+[Profile views](https://komarev.com/ghpvc/?username=Jayanthkandala&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 </div>
